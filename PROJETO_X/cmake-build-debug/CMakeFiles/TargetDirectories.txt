@@ -1,0 +1,3 @@
+C:/Users/gabri/OneDrive/Área de Trabalho/FATEC ADS/Segundo Semestre/LINGUAGEM DE PROGRAMAÇÃO - MAROMO/CLion/PROJETO_X/cmake-build-debug/CMakeFiles/PROJETO_X.dir
+C:/Users/gabri/OneDrive/Área de Trabalho/FATEC ADS/Segundo Semestre/LINGUAGEM DE PROGRAMAÇÃO - MAROMO/CLion/PROJETO_X/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gabri/OneDrive/Área de Trabalho/FATEC ADS/Segundo Semestre/LINGUAGEM DE PROGRAMAÇÃO - MAROMO/CLion/PROJETO_X/cmake-build-debug/CMakeFiles/rebuild_cache.dir
