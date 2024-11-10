@@ -47,5 +47,10 @@ void ListarMembros(int pos);
  */
 void AlterarDados(int pos);
 
+/**
+ *
+ * @param pos Digite a matriculo do Membro para excluir o mesmo
+ */
+void ExcluirCadastro(int pos);
 
 
