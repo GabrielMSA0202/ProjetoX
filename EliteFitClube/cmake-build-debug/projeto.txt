@@ -1,2 +1,0 @@
-Nome: Gabriel Moreira de Souza Alexandre;Idade: 24;CPF: 40375509895;Email: Gabriel@moreira.com;Matricula: 364;Senha: 23
-Nome: Guilherme Teruel;Idade: 23;CPF: 98756474833;Email: Gui@.com;Matricula: 967;Senha: 23
