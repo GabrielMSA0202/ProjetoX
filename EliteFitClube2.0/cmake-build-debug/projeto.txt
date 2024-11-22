@@ -1,0 +1,2 @@
+Nome: rgergr;Idade: 23;CPF: 22222222222;Email: @.com;Matricula: 378;Senha: 23;Advertencias: 0;Pendencia 0.00;
+Nome: rthrthrt;Idade: 24;CPF: 44444444444;Email: fe@.com;Matricula: 434;Senha: 56;Advertencias: 9;Pendencia 0.00;
