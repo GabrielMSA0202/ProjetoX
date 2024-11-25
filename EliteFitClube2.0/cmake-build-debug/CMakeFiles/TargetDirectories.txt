@@ -1,3 +1,0 @@
-C:/Users/gabri/OneDrive/Área de Trabalho/Clube Esportivo/EliteFitClube2.0/cmake-build-debug/CMakeFiles/EliteFitClube.dir
-C:/Users/gabri/OneDrive/Área de Trabalho/Clube Esportivo/EliteFitClube2.0/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/gabri/OneDrive/Área de Trabalho/Clube Esportivo/EliteFitClube2.0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
