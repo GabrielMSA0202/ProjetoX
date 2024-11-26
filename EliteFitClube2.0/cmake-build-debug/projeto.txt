@@ -1,0 +1,3 @@
+Nome: DFGRGE;Idade: 24;CPF: 22222222222;Email: @.;Matricula: 646;Senha: 23;Advertencias: 0;Pendencia: 0.00;Reserva: 1;Horario: 1;
+Nome: Gabriel;Idade: 24;CPF: 11111111111;Email: @.com;Matricula: 846;Senha: 23;Advertencias: 0;Pendencia: 0.00;Reserva: 4;Horario: 1;
+Nome: Gabriel Moreira;Idade: 24;CPF: 91919191919;Email: e@.com;Matricula: 139;Senha: 23;Advertencias: 10;Pendencia: 0.00;Reserva: 0;Horario: 0;
