@@ -1,0 +1,2 @@
+Nome: Gabriel;Idade: 24;CPF: 11111111111;Email: gwe@.com;Matricula: 7;Senha: 34;Advertencias: 0;Pendencia: 0.00;Reserva: 1;Horario: 1;
+Nome: Pedro Henrique;Idade: 23;CPF: 33333333333;Email: eger@.com;Matricula: 896;Senha: 598;Advertencias: 0;Pendencia: 0.00;Reserva: 9;Horario: 2;
