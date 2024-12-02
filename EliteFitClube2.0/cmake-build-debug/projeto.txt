@@ -1,6 +1,0 @@
-Nome: DFGRGE;Idade: 24;CPF: 22222222222;Email: @.;Matricula: 646;Senha: 23;Advertencias: 0;Pendencia: 0.00;Reserva: 1;Horario: 1;
-Nome: Gabriel;Idade: 24;CPF: 11111111111;Email: @.com;Matricula: 846;Senha: 23;Advertencias: 0;Pendencia: 0.00;Reserva: 1;Horario: 0;
-Nome: Gabriel Moreira;Idade: 24;CPF: 91919191919;Email: e@.com;Matricula: 139;Senha: 23;Advertencias: 10;Pendencia: 0.00;Reserva: 0;Horario: 0;
-Nome: pedro alves;Idade: 19;CPF: 01210210212;Email: pepe@lmail.com;Matricula: 157;Senha: 1010;Advertencias: 9;Pendencia: 0.00;Reserva: 0;Horario: 0;
-Nome: wegregee;Idade: 0;CPF: ;Email: ;Matricula: 0;Senha: ;Advertencias: 0;Pendencia: 0.00;Reserva: 0;Horario: 0;
-Nome: eger;Idade: 23;CPF: 22222323232;Email: @@.;Matricula: 945;Senha: ergr;Advertencias: 0;Pendencia: 0.00;Reserva: 0;Horario: 0;
